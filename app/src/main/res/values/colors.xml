@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="blue_900">#2a36b1</color>
+
+    <color name="light_blue_100">#b3e5fc</color>
+    <color name="light_blue_200">#8AD8FB</color>
+    <color name="light_blue_300">#4fc3f7</color>
+    <color name="light_blue_400">#29b6f6</color>
+    <color name="light_blue_500">#03a9f4</color>
+    <color name="light_blue_600">#039be5</color>
+    <color name="light_blue_700">#0288d1</color>
+    <color name="light_blue_800">#0277bd</color>
+    <color name="light_blue_900">#01579b</color>
+    <color name="light_blue_A100">#80d8ff</color>
+    <color name="light_blue_A200">#40c4ff</color>
+    <color name="light_blue_A400">#00b0ff</color>
+    <color name="light_blue_A700">#0091ea</color>
+
+    <color name="cyan_100">#b2ebf2</color>
+    <color name="cyan_200">#80deea</color>
+    <color name="cyan_300">#4dd0e1</color>
+    <color name="cyan_400">#26c6da</color>
+    <color name="cyan_500">#00bcd4</color>
+    <color name="cyan_A100">#84ffff</color>
+    <color name="cyan_A200">#18ffff</color>
+    <color name="cyan_A400">#00e5ff</color>
+    <color name="cyan_A700">#00b8d4</color>
+
+
+    <color name="lime_200">#e6ee9c</color>
+    <color name="lime_300">#dce775</color>
+    <color name="lime_400">#d4e157</color>
+    <color name="lime_500">#cddc39</color>
+    <color name="lime_600">#c0ca33</color>
+    <color name="lime_700">#afb42b</color>
+    <color name="lime_800">#9e9d24</color>
+    <color name="lime_A200">#eeff41</color>
+    <color name="lime_A400">#c6ff00</color>
+    <color name="lime_A700">#aeea00</color>
+
+
+    <color name="yellow_200">#fff59d</color>
+    <color name="yellow_300">#fff176</color>
+    <color name="yellow_400">#ffee58</color>
+    <color name="yellow_500">#ffeb3b</color>
+    <color name="yellow_600">#fdd835</color>
+    <color name="yellow_A100">#ffff8d</color>
+    <color name="yellow_A200">#ffff00</color>
+    <color name="yellow_A400">#ffea00</color>
+    <color name="yellow_A700">#ffd600</color>
+
+</resources>
